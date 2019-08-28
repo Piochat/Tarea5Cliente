@@ -1,0 +1,15 @@
+{
+    "name": "tare5/web",
+    "description": "Tarea de WebService y PDO",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Koke",
+            "email": "kokegudiel2@gmail.com"
+        }
+    ],
+    "require": {
+       "econea/nusoap":"0.9.6",
+       "zurb/foundation":"6.5.3"
+    }
+}

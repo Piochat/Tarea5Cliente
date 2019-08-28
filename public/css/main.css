@@ -1,0 +1,38 @@
+.darling {
+  background-image: url(../static/img/back.jpg);
+}
+
+.translucent-form-overlay {
+  max-width: 500px;
+  width: 100%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: #fefefe;
+}
+
+.translucent-form-overlay 
+.columns.row {
+  display: block;
+}
+
+label {
+  color: #ffffff;
+}
+
+.t_registro {
+  color: #ffffff;
+}
+
+.superior {
+  margin-top: 1.5em;
+}
+
+.log-in-form {
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.butoncito {
+  padding-left: 2em;
+  padding-right: 2em;
+}
